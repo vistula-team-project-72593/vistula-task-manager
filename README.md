@@ -31,8 +31,11 @@ The application allows users to manage their tasks online.
 3. Open `index.html` using Live Server.
 
 ## Live Demo
-[Open Task Manager](YOUR_GITHUB_PAGES_LINK)
+[Open Task Manager](https://vistula-team-project-72593.github.io/vistula-task-manager/)
 
 ## Team Contributions
-- Pull Request created in partner's repository: [Add link here]
-- Pull Request merged into this repository: [Add link here]
+### Incoming Pull Request
+[PR from khhty72593](https://github.com/vistula-team-project-72593/vistula-task-manager/pull/1)
+
+### Outgoing Pull Request
+[PR to khhty72593](https://github.com/khhty72593/vistula-task-manager/pull/1)
